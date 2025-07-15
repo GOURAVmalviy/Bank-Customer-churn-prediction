@@ -8,19 +8,19 @@ This project analyzes customer behavior to predict churn and offers actionable s
 
 ## 🚀 Project Highlights
 
-- 📊 Performed detailed Exploratory Data Analysis (EDA) on 7,000+ Bank customers
-- 🛠 Built a predictive churn classification model using Logistic Regression and other models (85% accuracy)
-- 📈 Designed an interactive Power BI dashboard for stakeholder insights
-- 💡 Identified key churn drivers and suggested business strategies for retention
+- 📊 Performed detailed Exploratory Data Analysis (EDA) on 7,000+ Bank customers.
+- 🛠 Built a predictive churn classification model using Logistic Regression and other models (85% accuracy).
+- 📈 Designed an interactive Power BI dashboard for stakeholder insights.
+- 💡 Identified key churn drivers and suggested business strategies for retention.
 
 ---
 
 ## 📌 Objectives
 
-- Understand patterns behind customer churn in telecom industry
-- Build a predictive model to identify high-risk customers
-- Design a dashboard for churn insights (by contract, tenure, services)
-- Propose actionable retention strategies
+- Understand patterns behind customer churn in telecom industry.
+- Build a predictive model to identify high-risk customers.
+- Design a dashboard for churn insights (by contract, tenure, services).
+- Propose actionable retention strategies.
 
 ---
 
@@ -39,36 +39,36 @@ This project analyzes customer behavior to predict churn and offers actionable s
 ## 🧪 Workflow
 
 ### 1. Data Cleaning & Preprocessing
-- Handled missing values and cleaned categorical fields
-- Feature encoding: Label Encoding, One-Hot Encoding
+- Handled missing values and cleaned categorical fields.
+- Feature encoding: Label Encoding, One-Hot Encoding.
 
 
 ### 2. Exploratory Data Analysis (EDA)
 - Visualized churn distribution by:
   - Contract type
   - Monthly charges
-  - Tech support and online backup
-- Used correlation heatmaps, histograms, and pie charts
+  - Tech support and online backup.
+- Used correlation heatmaps, histograms, and pie charts.
 
 ### 3. Predictive Modeling
-- Trained Logistic Regression, Random Forest, and maqchine learning models
-- Evaluated using Accuracy, Recall, F1-score, ROC-AUC
-- Selected XGBoost for deployment (85% accuracy, 76% recall)
+- Trained Logistic Regression, Random Forest, and machine learning models.
+- Evaluated using Accuracy, Recall.
+- Selected XGBoost for deployment (85% accuracy, 76% recall).
 
 ### 4. Power BI Dashboard
-- KPIs: Total Churn %, Monthly Charges, Avg Tenure
+- KPIs: Total Churn %, Monthly Charges, Avg Tenure.
 - Visual filters for:
   - Contract Type
   - Internet Services
   - Region / Gender
-- Drill-throughs: Customer Segments, High-Risk Profiles
+- Drill-throughs: Customer Segments, High-Risk Profiles.
 
 ### 5. Business Insights & Retention Strategy
-- High churn among month-to-month customers without tech support
+- High churn among month-to-month customers without tech support.
 - Key recommendations:
-  - Bundle essential services (internet, tech support)
-  - Loyalty discounts after 6 months
-  - Prepaid annual contracts with benefits
+  - Bundle essential services (internet, tech support).
+  - Loyalty discounts after 6 months.
+  - Prepaid annual contracts with benefits.
 
 
 

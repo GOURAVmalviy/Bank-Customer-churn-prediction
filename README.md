@@ -30,8 +30,8 @@ This project analyzes customer behavior to predict churn and offers actionable s
 |---------------|-------------------------------------|
 | Language      | Python (Pandas, NumPy, Scikit-learn)|
 | Visualization | Power BI                            |
-| Modeling      | Logistic Regression, Kernal SVM,
-                |  Random Forest, KNN Classifier.       |
+| Modeling      | Logistic Regression, Kernal SVM,    |
+                |  Random Forest, KNN Classifier.     |
 | Reporting     |  Jupyter Notebook                   |
 
 ---
@@ -70,7 +70,5 @@ This project analyzes customer behavior to predict churn and offers actionable s
   - Loyalty discounts after 6 months
   - Prepaid annual contracts with benefits
 
----
 
----📁 Project Structure
 
